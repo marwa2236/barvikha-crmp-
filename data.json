@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2584040-1",
+"yandex_inter":"R-M-2584040-3",
+"yandex_native":"R-M-2584040-2",
+"yandex_reward":"R-M-2584040-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -37,33 +37,33 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"unity", 
-"interstisial_network_choice":"unity", 
-"reward_network_choice":"unity",
-"native_network_choice":"unity"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
   "my_data":[
-  {"desc1":"In the ever-evolving landscape of the gaming industry, where creativity knows no bounds, virtual worlds continue to captivate players by offering immersive experiences that transcend reality. Among these enchanting creations, "Barvikha RP" stands out as a testament to the boundless potential of role-playing games (RPGs) in delivering an unparalleled sense of adventure, community, and exploration.
+  {"desc1":Interacting with other players is at the heart of RP. Forge alliances, rivalries, friendships, and conflicts with fellow role-players. Collaborative storytelling enhances the depth and excitement of your CRMP experience. Engage in conversations, form factions, and participate in events to build a network of dynamic relationships.
 
 ",
-   "photo1":"https://iili.io/HDHxe5J.jpg"},
-  {"desc2":"At the heart of the Barvikha RP game lies a meticulously crafted virtual realm that beckons players to step beyond the confines of their everyday lives and embark on a journey of self-discovery and intrigue. Set in a fictional world brimming with lush landscapes, ancient ruins, bustling cities, and mystical creatures, Barvikha RP offers an expansive sandbox for players to shape their destinies and weave intricate tales.
+   "photo1":"https://iili.io/HDC0rSS.jpg"},
+  {"desc2":"Engage your senses and emotions to fully immerse yourself in your character's experiences. Describe your character's feelings, reactions, and thoughts to make your interactions more vivid and engaging. Immerse yourself in the sights, sounds, and ambiance of Barvikha to enhance the realism of your role-play..
 
-","photo2":"https://iili.io/HDHxj0F.jpg"},
-  {"desc3":"One of the defining features of Barvikha RP is its emphasis on player agency and creativity. Unlike traditional linear video games, this RPG empowers players to craft their narratives, define their characters, and choose their paths. Whether you envision yourself as a daring knight, a cunning rogue, a mystical mage, or any other archetype, Barvikha RP provides the tools and backdrop to bring your character to life.
+","photo2":"https://iili.io/HDC0gl2.jpg"},
+  {"desc3":"Barvikha RP frequently hosts events, storylines, and activities that provide players with opportunities to engage in unique and memorable experiences. Participate in these events to enrich your character's journey, create memorable moments, and contribute to the evolving narrative of the community.tools and backdrop to bring your character to life.
 
-","photo3":"https://iili.io/HDHxwUg.jpg"},
-  {"desc4":"The world of Barvikha RP is a testament to the game developers' commitment to detail. Every corner of the virtual realm is infused with a sense of wonder and discovery. Traverse through ancient, towering forests where sunlight filters through the leaves, casting dappled shadows on the forest floor. Ascend to the peaks of majestic mountains that touch the skies, rewarding you with breathtaking vistas that evoke a sense of awe. The intricate architecture of bustling cities, the serenity of hidden lakes, and the mysteries of forgotten temples all invite players to unravel the secrets that lie within.
+","photo3":"https://iili.io/HDC0rSS.jpg"},
+  {"desc4":"While immersive RP is encouraged, it's essential to be respectful of other players' boundaries and preferences. Prioritize consent and communication when engaging in intense or potentially sensitive role-play scenarios. Respect the server's rules and guidelines, and strive to create a positive and inclusive environment for everyone.
 
-","photo4":"https://iili.io/HDHxOJa.jpg"},
-  {"desc5":"While the landscapes of Barvikha RP are undeniably captivating, the true magic of the game lies in the bonds forged between players. Much like the real world, the virtual realm thrives on social interaction, collaboration, and the creation of lasting relationships. From forming adventuring parties to joining guilds or participating in grand events, players are encouraged to come together, share their stories, and collectively shape the world around them.
+","photo4":"https://iili.io/HDC0UKl.jpg"},
+  {"desc5":While role-playing is a central aspect of Barvikha CRMP, it's important to strike a balance between RP and gameplay mechanics. Engage in activities such as jobs, businesses, and interactions with non-RP players to enhance the realism and functionality of your character's life within the game world.
 
-","photo5":"https://iili.io/HDHxkOv.jpg"},
-  {"descd":"What sets Barvikha RP apart is its commitment to dynamic storytelling. The game world isn't a static backdrop; it's a living, breathing entity that reacts to players' decisions and actions. Choices made by players have far-reaching consequences, influencing the political landscape, triggering events, and altering the very fabric of the world. This dynamic storytelling fosters a sense of agency, where players truly feel like their choices matter and their journey is unique.
+","photo5":"https://iili.io/HDC0iNe.jpg"},
+  {"descd":"Barvikha RP on CRMP offers a captivating platform for players to embark on immersive role-playing adventures within a vibrant and dynamic virtual world. By embracing character development, in-character interactions, and collaborative storytelling, you can create rich and engaging experiences that contribute to the tapestry of Barvikha's ever-evolving narrative. With these tips in mind, you'll be well-equipped to dive into the world of Barvikha RP on CRMP and craft unforgettable stories that will resonate with you and your fellow role-players for years to come.
 
-","photod":"https://iili.io/HDHzjQ2.jpg"}
+","photod":"https://iili.io/HDC0Qob.jpg"}
    ]
  
 }
