@@ -37,21 +37,33 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In the ever-evolving landscape of the gaming industry, where creativity knows no bounds, virtual worlds continue to captivate players by offering immersive experiences that transcend reality. Among these enchanting creations, "Barvikha RP" stands out as a testament to the boundless potential of role-playing games (RPGs) in delivering an unparalleled sense of adventure, community, and exploration.
+
+",
+   "photo1":"https://iili.io/HDHxe5J.jpg"},
+  {"desc2":"At the heart of the Barvikha RP game lies a meticulously crafted virtual realm that beckons players to step beyond the confines of their everyday lives and embark on a journey of self-discovery and intrigue. Set in a fictional world brimming with lush landscapes, ancient ruins, bustling cities, and mystical creatures, Barvikha RP offers an expansive sandbox for players to shape their destinies and weave intricate tales.
+
+","photo2":"https://iili.io/HDHxj0F.jpg"},
+  {"desc3":"One of the defining features of Barvikha RP is its emphasis on player agency and creativity. Unlike traditional linear video games, this RPG empowers players to craft their narratives, define their characters, and choose their paths. Whether you envision yourself as a daring knight, a cunning rogue, a mystical mage, or any other archetype, Barvikha RP provides the tools and backdrop to bring your character to life.
+
+","photo3":"https://iili.io/HDHxwUg.jpg"},
+  {"desc4":"The world of Barvikha RP is a testament to the game developers' commitment to detail. Every corner of the virtual realm is infused with a sense of wonder and discovery. Traverse through ancient, towering forests where sunlight filters through the leaves, casting dappled shadows on the forest floor. Ascend to the peaks of majestic mountains that touch the skies, rewarding you with breathtaking vistas that evoke a sense of awe. The intricate architecture of bustling cities, the serenity of hidden lakes, and the mysteries of forgotten temples all invite players to unravel the secrets that lie within.
+
+","photo4":"https://iili.io/HDHxOJa.jpg"},
+  {"desc5":"While the landscapes of Barvikha RP are undeniably captivating, the true magic of the game lies in the bonds forged between players. Much like the real world, the virtual realm thrives on social interaction, collaboration, and the creation of lasting relationships. From forming adventuring parties to joining guilds or participating in grand events, players are encouraged to come together, share their stories, and collectively shape the world around them.
+
+","photo5":"https://iili.io/HDHxkOv.jpg"},
+  {"descd":"What sets Barvikha RP apart is its commitment to dynamic storytelling. The game world isn't a static backdrop; it's a living, breathing entity that reacts to players' decisions and actions. Choices made by players have far-reaching consequences, influencing the political landscape, triggering events, and altering the very fabric of the world. This dynamic storytelling fosters a sense of agency, where players truly feel like their choices matter and their journey is unique.
+
+","photod":"https://iili.io/HDHzjQ2.jpg"}
    ]
  
 }
